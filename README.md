@@ -16,7 +16,7 @@ A entrega desse desafio deverá ser feita através do e-mail code-challenge@digi
 
 - Tenha em mente que a pessoa que for avaliar seu projeto não lerá seu código antes de vê-lo funcionar, por isso, inclua no README do projeto as instruções para rodar seu projeto com sucesso.
 - Dê preferência a uma solução dockerizada, um docker-compose com todas as dependências do projeto costumam funcionar melhor do que depender que o ambiente da outra pessoa possua as dependências
-- Certifique-se que seu projeto faz o setup do ambiente corretamente, como, por exemplo realizar as migraçẽos de banco, criação de usuário inicial e qualquer outra config que se finzer necessária
+- Certifique-se que seu projeto faz o setup do ambiente corretamente, como, por exemplo realizar as migrações de banco, criação de usuário inicial e qualquer outra config que se fizer necessária
 
 **Importante:** Testes técnicos não funcionais são automaticamente desconsiderados do processo
 
